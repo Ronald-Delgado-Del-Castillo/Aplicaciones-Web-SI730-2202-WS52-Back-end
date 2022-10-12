@@ -1,0 +1,15 @@
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\bin\Debug\net6.0\LearningCenter.Infraestructure.deps.json
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\bin\Debug\net6.0\LearningCenter.Infraestructure.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\bin\Debug\net6.0\LearningCenter.Infraestructure.pdb
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.csproj.AssemblyReference.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.AssemblyInfoInputs.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.AssemblyInfo.cs
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.csproj.CoreCompileInputs.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\refint\LearningCenter.Infraestructure.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.pdb
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\ref\LearningCenter.Infraestructure.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\bin\Debug\net6.0\LearningCenter.Shared.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\bin\Debug\net6.0\LearningCenter.Shared.pdb
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Infraestructure\obj\Debug\net6.0\LearningCenter.Infraestructure.csproj.CopyComplete

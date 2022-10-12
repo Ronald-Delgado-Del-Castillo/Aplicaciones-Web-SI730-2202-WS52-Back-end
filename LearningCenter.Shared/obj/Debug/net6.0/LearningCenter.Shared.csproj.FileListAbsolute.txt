@@ -1,0 +1,12 @@
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.deps.json
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.pdb
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.csproj.AssemblyReference.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.AssemblyInfoInputs.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.AssemblyInfo.cs
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.csproj.CoreCompileInputs.cache
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\refint\LearningCenter.Shared.dll
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.pdb
+C:\UPC\Ciclo 2022-02\Aplicaciones Web\Soluciones\LearningCenterUPC\LearningCenter.Shared\obj\Debug\net6.0\ref\LearningCenter.Shared.dll
